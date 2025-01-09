@@ -32,5 +32,9 @@
                     (D . (B))
                     (E . (B F))
                     (F . (C E))))
+
+
+
+                    
 (format t "BFS starting from node B: ")
 (bfs graph 'B)
