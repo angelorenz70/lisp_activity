@@ -35,6 +35,10 @@
 
 
 
+
+
+
+
                     
 (format t "BFS starting from node B: ")
 (bfs graph 'B)
